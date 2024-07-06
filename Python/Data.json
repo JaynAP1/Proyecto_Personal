@@ -1,0 +1,14 @@
+[
+    {
+        "Id":1,
+        "Grupo":"Retirar",
+        "RetirosP":[
+            {
+                "Cedula":123,
+                "Nombre":"Jerxon",
+                "Apellido":"Correa",
+                "Codigo":12342
+            }
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+document.getElementById('Retirar').addEventListener('click',function(){
+    window.location.href='Retirar.html'
+});
+document.getElementById('Consignar').addEventListener('click',function(){
+    window.location.href=''
+});
+document.getElementById('Historial').addEventListener('click',function(){
+    window.location.href=''
+});
+document.getElementById('Salir').addEventListener('click',function(){
+    window.location.href='Login.html'
+});
